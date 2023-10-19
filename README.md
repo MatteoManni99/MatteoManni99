@@ -1,4 +1,5 @@
 ### Hi there 👋
+Hello! I'm Matteo, a passionate student of artificial intelligence and data engineering. Currently, I'm in my second year of the Master's program in "Artificial Intelligence and Data Engineer" at the University of Pisa. My enthusiasm for technology, machine learning, and data processing has driven me to explore the world of programming and data science.
 
 <!--
 **MatteoManni99/MatteoManni99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
