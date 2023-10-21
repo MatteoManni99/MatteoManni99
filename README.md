@@ -3,7 +3,8 @@ I'm Matteo, a passionate student of Artificial Intelligence and Data Engineering
 
 - 🌱 I'm currently studying Deep NN architectures and genetic Algorithm
 - 🔧 I’m currently working on a Search Engine in Java for a university project and a side project started in order to learn C#    
-- 📫 How to reach me: matteomanni1999@gmail.com
+- 📫 Email: matteomanni1999@gmail.com
+- 🌏 Linkedin: linkedin.com/in/matteomanni
 
 <!--
 **MatteoManni99/MatteoManni99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
