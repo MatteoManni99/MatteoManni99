@@ -1,8 +1,4 @@
 ### Hi there 👋
-I'm Matteo, a passionate student of Artificial Intelligence and Data Engineering. Currently, I'm in my second year of the Master's program in "Artificial Intelligence and Data Engineer" at the University of Pisa. My enthusiast for deep learning, in particular computer vision has driven me to explore the world of Artificil Intelligence.
-
-- 🌱 I'm currently studying Deep NN architectures and genetic Algorithm
-- 🔧 I'm currently developing a Search Engine in Java for an university project, alongside a side project in order to skill myself in C#.
 - 📫 Email: matteomanni1999@gmail.com
 - 🌏 Linkedin: [matteo manni](https://www.linkedin.com/in/matteo-manni-1493b625b/)
 
